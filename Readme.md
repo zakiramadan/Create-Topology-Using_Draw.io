@@ -25,6 +25,8 @@ Repository ini berisi topologi jaringan untuk tiga prototipe berbasis Internet o
 
 ![Topologi Mesh](image/1.png)
 
+![Topologi Bus](image/2.png)
+
 ## Kesimpulan
 
 Dari analisis tiga paper terkait infrastruktur jaringan untuk prototipe IoT, kita dapat melihat bahwa masing-masing prototipe memiliki kebutuhan dan saran pengembangan infrastruktur jaringan yang unik sesuai dengan karakteristiknya.
