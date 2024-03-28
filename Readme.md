@@ -23,9 +23,9 @@ Repository ini berisi topologi jaringan untuk tiga prototipe berbasis Internet o
 
 ## Topologi Jaringan
 
-![Topologi Mesh](image/1.png)
+![App Screenshot](/Image/1.png)
 
-![Topologi Bus](image/2.png)
+![App Screenshot](/Image/2.png)
 
 ## Kesimpulan
 
