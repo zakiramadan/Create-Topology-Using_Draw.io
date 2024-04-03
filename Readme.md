@@ -27,7 +27,7 @@ Repository ini berisi review dan saran pengembangan infrakstruktur jaringan beru
 
 ## Kesimpulan
 
-Dari analisis tiga paper terkait infrastruktur jaringan untuk prototipe IoT, kita dapat melihat bahwa masing-masing prototipe memiliki kebutuhan dan saran pengembangan infrastruktur jaringan yang unik sesuai dengan karakteristiknya.
+Dari analisis tiga paper terkait infrastruktur jaringan, kita dapat melihat bahwa masing-masing prototipe memiliki kebutuhan dan saran pengembangan infrastruktur jaringan yang unik sesuai dengan karakteristiknya.
 
 1. **Sistem Perekam Detak Jantung Berbasis IoT**: Infrastruktur jaringan yang disarankan melibatkan penggunaan perangkat IoT yang terhubung secara nirkabel ke gateway IoT, yang kemudian terhubung ke cloud atau server lokal. Ini memungkinkan pemrosesan dan penyimpanan data detak jantung secara efisien.
 
@@ -35,7 +35,7 @@ Dari analisis tiga paper terkait infrastruktur jaringan untuk prototipe IoT, kit
 
 3. **Sistem Kontrol Otomatis untuk Akuarium Ikan Hias**: Infrastruktur jaringan disarankan untuk melibatkan sensor suhu dan pH yang terhubung ke gateway IoT di sekitar akuarium, dengan koneksi ke server atau cloud untuk pengendalian jarak jauh.
 
-Kesimpulannya, pengembangan infrastruktur jaringan untuk prototipe IoT harus mempertimbangkan kebutuhan spesifik dari setiap aplikasi dan memastikan bahwa topologi jaringan mendukung komunikasi yang efisien antara perangkat IoT, gateway, dan server/cloud. Dengan infrastruktur yang tepat, prototipe tersebut dapat berfungsi dengan baik dan memberikan manfaat yang diinginkan kepada pengguna.
+Kesimpulannya, pengembangan infrastruktur jaringan untuk harus mempertimbangkan kebutuhan spesifik dari setiap aplikasi dan memastikan bahwa topologi jaringan mendukung komunikasi yang efisien antara perangkat IoT, gateway, dan server/cloud. Dengan infrastruktur yang tepat, prototipe tersebut dapat berfungsi dengan baik dan memberikan manfaat yang diinginkan kepada pengguna.
 
 ## Instruksi
 
