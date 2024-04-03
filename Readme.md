@@ -1,8 +1,8 @@
-# Infrastruktur Jaringan untuk Prototipe IoT
+# Pengembangan Infrastruktur Jaringan
 
 ## Deskripsi
 
-Repository ini berisi topologi jaringan untuk tiga prototipe berbasis Internet of Things (IoT) yang dijelaskan dalam paper-paper berikut:
+Repository ini berisi review dan saran pengembangan infrakstruktur jaringan berupa topologi beserta deskripsi yang dijelaskan dalam paper-paper berikut:
 
 1. **Sistem Perekam Detak Jantung Berbasis IoT**
 
@@ -23,9 +23,7 @@ Repository ini berisi topologi jaringan untuk tiga prototipe berbasis Internet o
 
 ## Topologi Jaringan
 
-![App Screenshot](/Image/1.png)
-
-![App Screenshot](/Image/2.png)
+![App Screenshot](/Image/3.png)
 
 ## Kesimpulan
 
